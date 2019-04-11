@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google</string>
+    <string name="firebase_login">Firebase Login</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="logout">logout</string>
+    <!--<string name="default_web_client_id">866341742744-ifoj37anocr0uec5kcjmui4tr3hepevp.apps.googleusercontent.com</string>-->
+    <string name="login_with_twitter">login with twitter</string>
+</resources>
